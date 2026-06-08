@@ -344,10 +344,10 @@ Information Technology Institute (ITI) · `July 2024`
 | Platform | Link |
 |---|---|
 | 📧 **Email** | [nada.nasr436@gmail.com](mailto:nada.nasr436@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) |
-| 🌐 **Portfolio** | [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) |
-| 🐙 **GitHub** | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
-| 📍 **Location** | Alexandria, Egypt 🇪🇬 — open to relocation |
+| 💼 **LinkedIn** | [https://www.linkedin.com/in/nadanasrsaid/](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/nadanasrsaid/)) |
+| 🌐 **Portfolio** | [https://nada-nasr-cv.lovable.app/]([https://YOUR_PORTFOLIO_URL](https://nada-nasr-cv.lovable.app/)) |
+| 🐙 **GitHub** | [(https://github.com/nada436](https://github.com/nada436) |
+| 📍 **Location**  Egypt 🇪🇬|
 
 </div>
 
