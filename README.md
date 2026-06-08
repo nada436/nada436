@@ -345,9 +345,9 @@ Information Technology Institute (ITI) · `July 2024`
 |---|---|
 | 📧 **Email** | [nada.nasr436@gmail.com](mailto:nada.nasr436@gmail.com) |
 | 💼 **LinkedIn** | [https://www.linkedin.com/in/nadanasrsaid/](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/nadanasrsaid/)) |
-| 🌐 **Portfolio** | [https://nada-nasr-cv.lovable.app/]([https://YOUR_PORTFOLIO_URL](https://nada-nasr-cv.lovable.app/)) |
+| 🌐 **Portfolio** | [https://nada-nasr-cv.lovable.app/](https://YOUR_PORTFOLIO_URL](https://nada-nasr-cv.lovable.app/)) |
 | 🐙 **GitHub** | [(https://github.com/nada436](https://github.com/nada436) |
-| 📍 **Location**  Egypt 🇪🇬|
+| 📍 **Location**  |Egypt 🇪🇬
 
 </div>
 
