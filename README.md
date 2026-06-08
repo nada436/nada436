@@ -319,7 +319,7 @@ Information Technology Institute (ITI) · `July 2024`
 <div align="center">
 
 <!-- ✏️  Replace YOUR_GITHUB_USERNAME below -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nada436&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -362,15 +362,6 @@ Information Technology Institute (ITI) · `July 2024`
 ---
 
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS COUNTER                       -->
-<!--   ✏️  Replace YOUR_GITHUB_USERNAME below                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
 
 *"Clean code, scalable systems, real impact."*
 
