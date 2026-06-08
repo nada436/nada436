@@ -30,19 +30,12 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const nada: Developer = {
-  name:       "Nada Nasr",
-  role:       "Backend Engineer · Full Stack Developer",
-  location:   "Alexandria, Egypt 🇪🇬  (open to relocation)",
-  focus:      ["Scalable APIs", "Clean Architecture", "Real-time Systems"],
-  currently:  "ITI 9-Month Professional Diploma — Open Source Track",
-  interests:  ["System Design", "AI Integration", "Developer Tooling"],
-  funFact:    "I once built an AI code-debugging assistant powered by Gemini 🤖",
-};
-```
+Results-driven backend engineer with a strong foundation in algorithms, data structures, and scalable API design. I build production-grade RESTful and GraphQL APIs with **Node.js** and **NestJS** across SQL and NoSQL databases — and I love solving hard engineering problems with clean, well-documented code.
 
-> Results-driven backend engineer with a strong foundation in algorithms, data structures, and scalable API design. I build production-grade RESTful and GraphQL APIs with **Node.js** and **NestJS** across SQL and NoSQL databases — and I love solving hard engineering problems with clean, well-documented code.
+- 🔧 Passionate about **building scalable APIs** and **clean systems architecture**
+- 🌍 Based in Alexandria, Egypt — open to relocation
+- 🎓 Currently completing the **ITI 9-Month Professional Diploma** (Open Source Track)
+- 💡 Interested in System Design, AI Integration, and Developer Tooling
 
 <br/>
 
@@ -312,30 +305,6 @@ Information Technology Institute (ITI) · `July 2024`
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-nestjs)
 
 </details>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATISTICS                              -->
-<!--   ✏️  Replace YOUR_GITHUB_USERNAME in ALL three image URLs     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
-</div>
 
 <br/>
 
