@@ -316,12 +316,6 @@ Information Technology Institute (ITI) · `July 2024`
 
 ## 🏆 Achievements & Highlights
 
-<div align="center">
-
-<!-- ✏️  Replace YOUR_GITHUB_USERNAME below -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=nada436&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br/>
 
